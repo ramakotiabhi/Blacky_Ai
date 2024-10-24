@@ -109,7 +109,8 @@ A web interface allows users (policymakers, organizations, and communities) to v
 
 ### Solution demo video
 
-[![Watch the video](https://youtu.be/3XeFkD4GxrQ)
+[![Watch the video]  (https://youtu.be/3XeFkD4GxrQ)
+
 ### Project development roadmap
 
 The project currently does the following things.
