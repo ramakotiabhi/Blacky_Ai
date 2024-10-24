@@ -46,7 +46,7 @@ By utilizing AI for predictive analytics, machine learning to interpret environm
 ### Our idea
 We propose developing an AI-powered platform that integrates the following features:
 
-# Real-time Environmental Data Monitoring: IoT sensors deployed across regions will collect data on key environmental indicators such as carbon emissions, pollution levels, and weather patterns.
+ #### Real-time Environmental Data Monitoring: IoT sensors deployed across regions will collect data on key environmental indicators such as carbon emissions, pollution levels, and weather patterns.
 ## Data Analytics and Predictive Insights: Using AI and machine learning models, the platform will analyze collected data and generate insights to help formulate and adjust climate change policies.
 ## Community Input Integration: Surveys and feedback mechanisms will enable the platform to incorporate local community concerns and needs into policy development, ensuring the policies are equitable and inclusive.
 ## Blockchain for Transparency: Blockchain technology will be used to create an immutable ledger of policy actions, enforcement measures, and progress reports, fostering trust and accountability among all stakeholders.
