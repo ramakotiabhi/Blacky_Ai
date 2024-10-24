@@ -136,7 +136,8 @@ See below for our proposed schedule on next steps after Call for Code 2024 submi
 ![Roadmap](./images/roadmap.jpg)
 
 ## Additional details
-#### Policy Simulator
+
+### Policy Simulator
 Overview: The Policy Simulator is an essential tool integrated into our climate change platform, designed to help governments, organizations, and communities assess the impact of different climate policies before they are implemented. The simulator provides insights into emissions reduction, cost efficiency, and overall policy intensity, helping decision-makers optimize strategies for maximum effectiveness and minimal financial burden.
 
 #### Budget (USD)
