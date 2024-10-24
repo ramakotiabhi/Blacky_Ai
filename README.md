@@ -109,8 +109,7 @@ A web interface allows users (policymakers, organizations, and communities) to v
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
-
+[![Watch the video](https://youtu.be/3XeFkD4GxrQ)
 ### Project development roadmap
 
 The project currently does the following things.
@@ -267,4 +266,4 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ### Acknowledgments
 
-- Based on We would like to thank the IBM Call for Code challenge for providing an opportunity to build solutions for critical global issues. Special thanks to the IBM Watson team for their cutting-edge AI tools.
+- Based on We would like to thank the IBM Call for Code challenge for providing an opportunity to build solutions for critical global issues. Special thanks to the IBM Watson team for their cutting-edge AI tools.(https://github.com/ramakotiabhi/Blacky_Ai/tree/main/.github)
