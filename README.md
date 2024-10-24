@@ -1,12 +1,3 @@
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
-
-_INSTRUCTIONS: This GitHub repository serves as a template and example you can use to create a well documented README for your project for the [2024 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/)._
-
-Your required deliverables and project descriptions should be officially submitted to your My Team > Submissions section of the [Call for Code Global Challenge web site](https://compete.callforcode.skillsnetwork.site/competitions/2024-call-for-code-global-challenge), but you can also optionally include them here for completeness, as it is good practice to clearly document your project in your README file. Replace the examples seen here with your own deliverable links.
-
-Use the **Use this template** button to create a new version of this repository and start entering content for your own Call for Code submission project. Make sure you have [registered for the 2024 Call for Code Global Challenge](https://www.ibm.com/account/reg/signup?formid=urx-52643) to access resources and full project submission instructions. Remove any "INSTRUCTIONS" sections when you are ready to submit your project.
-
-_New to Git and GitHub? This free online course will get you up to speed quickly: [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)_.
 
 # Effective Climate Change Policies and Protections
 
@@ -31,7 +22,6 @@ _New to Git and GitHub? This free online course will get you up to speed quickly
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
-_INSTRUCTIONS: Below are the suggested sections to include in your README file to make sure your project is well documented. You can remove this instruction text._
 
 ## Project summary
 
@@ -125,15 +115,61 @@ A web interface allows users (policymakers, organizations, and communities) to v
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+#### Milestones
+- Week 2: Research complete, initial requirements finalized.
+- Week 4: Basic prototype and technology setup.
+- Week 6: IoT and community input integration working.
+- Week 9: AI models refined, policy recommendation engine in place.
+- Week 11: Blockchain implementation completed.
+- Week 14: User-friendly interface and dashboard built.
+- Week 16: System tested, optimized for deployment.
+- Week 18: Platform launched and made available to stakeholders.
 
 In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
 
-![Roadmap](./images/roadmap.jpg)
+### Partner and Government Collaborations 
+#### Public Sector and NGO Engagement:
+Engage with government agencies, environmental organizations, and NGOs to pilot the tool in real-world policymaking processes.
+Provide training and workshops for public sector officials to maximize the simulator’s utility in decision-making.
+
+#### Strategic Partnerships:
+Form partnerships with climate-focused technology companies and environmental data providers to expand the platform’s data sources and capabilities.
+Collaborate with academic institutions and research centers for advanced climate modeling and scenario analysis.
+
+### Scaling for Global Impact 
+#### Cloud Scaling and Performance Enhancements
+Migrate the platform to a global cloud infrastructure (e.g., IBM Cloud or hybrid multi-cloud) to handle higher user volumes and larger datasets.
+Integrate advanced analytics to manage real-time simulations for multiple regions simultaneously.
+
+#### Localization and Language Support:
+Localize the platform for global use, including multi-language support for government and community stakeholders worldwide.
+Develop region-specific models for varying climate regulations and policies.
+
+#### Certification and Standards Alignment
+Align the tool with international climate and emissions standards (e.g., Paris Agreement, IPCC guidelines) to enhance credibility and trust among policymakers.
+Explore partnerships for ISO certification in environmental simulation technologies.
+Phase 10: Long-Term Monitoring and Continuous Improvement (Months 49+)
+
+#### Ongoing Monitoring and Data Updates:
+Continuously update environmental data sources (via IoT and open datasets) to ensure simulations remain accurate and reflect the latest climate trends.
+Introduce a policy impact monitoring feature to compare simulated outcomes with real-world results, further improving model accuracy.
+
+#### Community and User Growth:
+Expand the platform to additional countries and regions, targeting both developed and developing nations for broader global impact.
+Foster a community of users, developers, and policymakers to contribute to open-source enhancements and share best practices.
+Future Funding and Investment Plans
+
+#### Explore Funding Opportunities:
+Apply for government grants, research funding, and sustainability-oriented venture capital to further develop and scale the platform.
+Develop a subscription or licensing model for large-scale governmental use while keeping the core features free for NGOs and smaller communities.
+Carbon Credit Marketplace Integration:
+
+As a long-term vision, explore the integration of a Carbon Credit Marketplace to allow policymakers and organizations to trade carbon credits, enhancing the policy simulator’s utility in emissions trading and reduction strategies.
+Long-Term Vision and Sustainability Goals
+The ultimate goal is to make the Policy Simulator a globally recognized, go-to tool for climate policymakers, ensuring that every community, government, and organization has access to data-driven, AI-enhanced insights for effective climate action. By continuing to innovate, collaborate, and scale, this platform can play a vital role in the global fight against climate change, empowering decision-makers with the tools they need for impactful, sustainable policies.
+
 
 ## Additional details
 
@@ -231,4 +267,4 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ### Acknowledgments
 
-- Based on We would like to thank the IBM Call for Code challenge for providing an opportunity to build solutions for critical global issues. Special thanks to the IBM Watson team for their cutting-edge AI tools.[Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- Based on We would like to thank the IBM Call for Code challenge for providing an opportunity to build solutions for critical global issues. Special thanks to the IBM Watson team for their cutting-edge AI tools.
